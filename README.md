@@ -1,4 +1,4 @@
-# Portfolio
+# Photography Portfolio
 my own photography portfolio
 ##Interest
     I have a hobby of clicking photos from my mobile lense and then editing them using Snapseed and Lightroom
